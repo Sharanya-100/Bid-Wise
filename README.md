@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Auction Platform
 
 A real-time online auction platform built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.io for real-time bidding functionality.
@@ -134,3 +135,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Node.js](https://nodejs.org/)
 - [Socket.io](https://socket.io/)
 - [Bootstrap](https://getbootstrap.com/) 
+=======
+# Bid-Wise
+>>>>>>> a0357bd260f16bb1142493dbb08e34bd54b494b9
