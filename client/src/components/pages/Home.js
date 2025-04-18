@@ -28,7 +28,7 @@ const Home = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-md-6">
-              <h1 className="display-4 fw-bold">Online Auction Platform</h1>
+              <h1 className="display-4 fw-bold">Bid-Wise</h1>
               <p className="lead">
                 Buy and sell items through real-time auctions. Find unique items or sell your valuables to the highest bidder.
               </p>
