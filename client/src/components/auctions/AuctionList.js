@@ -336,13 +336,13 @@ const AuctionList = ({ showAlert }) => {
         </div>
       )}
       
-      {/* Debug Info - Remove in production */}
+      {/* Debug Info - Remove in production
       <div className="mt-3 p-3 bg-light rounded small">
         <h6>Debug Information:</h6>
         <p>Current Filters: Status={filters.status || 'none'}, Category={filters.category || 'none'}, Seller={filters.seller || 'none'}</p>
         <p>Auctions Found: {auctions ? auctions.length : 0}</p>
         <p>Current Page: {currentPage} of {totalPages}</p>
-      </div>
+      </div> */}
       
       {/* Pagination */}
       {totalPages > 1 && (
