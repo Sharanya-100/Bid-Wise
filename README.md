@@ -2,6 +2,10 @@
 # Online Auction Platform
 
 A real-time online auction platform built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.io for real-time bidding functionality.
+![Screenshot 2025-04-18 195515](https://github.com/user-attachments/assets/f37bbf48-7c5e-4b3c-9c11-30f36b217977)
+![Screenshot 2025-04-18 195548](https://github.com/user-attachments/assets/0c150333-68b6-4e94-ab42-b6a322b57668)
+
+
 
 ## Features
 
